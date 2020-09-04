@@ -1,0 +1,26 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "employee-summary.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node employee-summary.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esmailmb/employee-tracker.git"
+  },
+  "author": "Kingsley Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esmailmb/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/esmailmb/employee-tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.1",
+    "mysql": "^2.17.1",
+    "promise-mysql": "^4.1.1"
+  }
+}
