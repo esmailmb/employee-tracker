@@ -14,11 +14,11 @@ The application gives yout the following options:
 1. Run `npm install` to install all dependencies
 2. Run `schema.sql` in MySQLWorkbench
 3. Run `seeds.sql` in MySQLWorkbench
-3. Edit MySQL connection properties in the `connectionProperties` object in `employee-summary.js`
+3. Edit MySQL connection properties in the `connectionProperties` object in `employee-trucker.js`
 
 ## Usage
 ---
-1. Run `node employee-summary.js` to start the application
+1. Run `node employee-trucker.js` to start the application
 2. Select from the menu to view, add, remove, or update employees, roles, departments, or managers
 
 
