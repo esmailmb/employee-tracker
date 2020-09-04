@@ -21,6 +21,11 @@ The application gives yout the following options:
 1. Run `node employee-trucker.js` to start the application
 2. Select from the menu to view, add, remove, or update employees, roles, departments, or managers
 
+## Demo
+
+1. See demo of application 
+2. Images of application is uploaded as well. 
+
 
 ## Tool & Resources
 ---
